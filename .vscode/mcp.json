@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"qt-mcp-server": {
+			"url": "https://qt-docs-mcp.qt.io/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
